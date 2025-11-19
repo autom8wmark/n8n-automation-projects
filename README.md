@@ -1,6 +1,3 @@
-# n8n-automation-projects
-Collection of automation projects for personal use and client
-
 # YouTube Transcription Workflow (n8n + OpenAI Whisper)
 
 This workflow automates YouTube video transcription using **n8n**, **OpenAI Whisper API**, and **Google Docs**.
